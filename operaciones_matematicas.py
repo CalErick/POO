@@ -1,4 +1,4 @@
-#class Operaciones
+class Operaciones
     def __init__(self,num1,num2):
         self.numero1=num1
         self.numero2=num2
